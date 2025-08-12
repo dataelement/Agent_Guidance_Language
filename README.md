@@ -1,4 +1,4 @@
-# AGL — Agent Guidance Language（开源标准，Draft v0.1）
+# AGL — Agent Guidance Language（标准Agent指导语言）
 
 > 用 SOP 思维为 Agent 写“可执行的指令书”。AGL 让业务专家用自然语言稳定“控盘”通用 Agent，把**专家偏好/偏见**和**私域知识**注入任务执行流程。
 
